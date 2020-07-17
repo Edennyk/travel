@@ -347,7 +347,7 @@ p, a, button, input {
           display: flex;
           align-items: center; }
           #testimonials article #reviews .review .reviewer-details figure {
-            boreder-radius: 50%;
+            border-radius: 50%;
             background-size: cover;
             height: 6.25rem;
             width: 6.25rem; }

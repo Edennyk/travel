@@ -4,8 +4,7 @@
 * HTML 
 * CSS , SASS
 * Javascript
-
-## Descriptons
+## Descriptions
 * This project from udemy web developmnet course 
 * use sass with css
 * responsive-web / animation effect / mediaquery 

@@ -1,6 +1,5 @@
 # Travel agency Webpage design :airplane:
-[Link to DEMO](https://edennyk.github.io/travel/){:target="_blank"}
-<a href="https://edennyk.github.io/travel/" target="_blank">example</a>
+[Link to DEMO](https://edennyk.github.io/travel/)
 ## Skills
 * HTML 
 * CSS , SASS
